@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springsecurity
+
+url:
+  baseUrl: https://dattebayo-api.onrender.com
+  characters: /characters
+  teams: /teams
+  akatsuki: /akatsuki
